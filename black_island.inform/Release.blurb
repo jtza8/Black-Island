@@ -1,0 +1,25 @@
+! Blurb file created by Inform build 5Z71
+
+! Identification
+
+project folder "/Users/jens/Documents/interactive_fiction/black_island.inform"
+
+! Blorb instructions
+
+storyfile leafname "Black Island.zblorb"
+storyfile "/Users/jens/Documents/interactive_fiction/black_island.inform/Build/output.z5" include
+ifiction "/Users/jens/Documents/interactive_fiction/black_island.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/DefaultCover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/DefaultCover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "4AFE2FF6-63C4-46F7-ACDE-9046CAF1C762"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2010"
+placeholder [TITLE] = "Black Island"
+placeholder [AUTHOR] = "Jens Thiede"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+

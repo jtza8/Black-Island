@@ -1,0 +1,2087 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0xedb4540" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0xedb4540" />
+  <item nodeId="node-0xedb4540">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+Black Island
+An Interactive Fiction by Jens Thiede
+Release 1 / Serial number 100621 / Inform 7 build 5Z71 (I6/v6.31 lib 6/12N) SD
+
+
+The Restless Night
+Welcome to my first, (as yet) unfinished interactive fiction game. In future versions this text will be replaced with an introduction to the story. For now, all you can do is walk through the itemless world - have fun. =P
+
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+
+
+
+Black Island
+An Interactive Fiction by Jens Thiede
+Release 1 / Serial number 100610 / Inform 7 build 5Z71 (I6/v6.31 lib 6/12N) SD
+
+
+The Restless Night
+Here&apos;s some text blah blah blah.
+
+Landing Zone
+You are on the beach. To the southeast lies the wreckage of what was once your magnificent airplane. To the southwest there&apos;s a clearing.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">NO</temporary>
+    <children>
+      <child nodeId="node-0xb633640" />
+      <child nodeId="node-0xb632d40" />
+      <child nodeId="node-0xf2f8280" />
+    </children>
+  </item>
+  <item nodeId="node-0xf2f8280">
+    <command xml:space="preserve"> s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xfd519e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xfd519e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xfd51a70" />
+    </children>
+  </item>
+  <item nodeId="node-0xfd51a70">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xfd7a780" />
+    </children>
+  </item>
+  <item nodeId="node-0xfd7a780">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Wreckage (West)
+You are standing on the west side of the airplane. It saddens you to see the wreckage; it feels as though you lost a good friend. There is more of the airplane to the east; but not much on the beach to the northwest and southwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xfd7a810" />
+    </children>
+  </item>
+  <item nodeId="node-0xfd7a810">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Wreckage (East)
+You are standing on the east side of your airplane. It doesn&apos;t look any better from this angle; might as well go back to the west side.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xfd7a8a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xfd7a8a0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wreckage (West)
+You are standing on the west side of the airplane. It saddens you to see the wreckage; it feels as though you lost a good friend. There is more of the airplane to the east; but not much on the beach to the northwest and southwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6312a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6312a0">
+    <command xml:space="preserve">Awesome keyboard extender!</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631330" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631330">
+    <command xml:space="preserve">WHAT HOW DARE YOU YOU INFEDEL</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6313c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6313c0">
+    <command xml:space="preserve">IIIIIIIIIIIINFEDEEEEEEL</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631450" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631450">
+    <command xml:space="preserve">Hel?</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6314e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6314e0">
+    <command xml:space="preserve">That&apos;s a noun</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631570" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631570">
+    <command xml:space="preserve">...</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631700" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631700">
+    <command xml:space="preserve">&gt;.&lt;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631750" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631750">
+    <command xml:space="preserve">=P</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6317a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6317a0">
+    <command xml:space="preserve">(.(</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631830" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631830">
+    <command xml:space="preserve">\o/</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6318c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6318c0">
+    <command xml:space="preserve">;_;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631950" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631950">
+    <command xml:space="preserve">\o&gt;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6319e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6319e0">
+    <command xml:space="preserve">.o&gt;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631a70" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631a70">
+    <command xml:space="preserve">&lt;o.</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631b00" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631b00">
+    <command xml:space="preserve">&lt;o&gt;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631b90" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631b90">
+    <command xml:space="preserve">\o&gt;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631c20" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631c20">
+    <command xml:space="preserve">&lt;o/</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631cb0">
+    <command xml:space="preserve">\o/</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631600" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631600">
+    <command xml:space="preserve">&lt;o&gt;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631690" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631690">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631f80" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631f80">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632010" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632010">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (Inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6320a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6320a0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632130" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632130">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (Inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6321c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6321c0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+East Beach (Inshore)
+Airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632250" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632250">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northeast Woods
+There are birds singing in the trees around you while the sun sneaks a look at you through the copper leaves. The forest continues to the south and the northwest. To the west you can see a cave entrance and the beach is to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6322e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6322e0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Cave Entrance
+You are at the enterance of the cave, suprisingly, it&apos;s not too dark in there. The cave continues to the west, and the forest starts to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632370" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632370">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632400" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632400">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+North Chamber
+There&apos;s a single crack in the ceiling, the chamber is dry, there&apos;s even place for a fire. This looks like a good place to sleep.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632490" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632490">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632520" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632520">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+South Chamber
+The floor slopes down into a large pool of rainwater which fills most of the chamber. The corridor is back to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6325b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6325b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632640" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632640">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Southwest Chamber
+This room is dark, there isn&apos;t really much you can see. Looks like a good place to store things. The corridor is back to the northeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6326d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6326d0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632760" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632760">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Cave Entrance
+You are at the enterance of the cave, suprisingly, it&apos;s not too dark in there. The cave continues to the west, and the forest starts to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6327f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6327f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northeast Woods
+There are birds singing in the trees around you while the sun sneaks a look at you through the copper leaves. The forest continues to the south and the northwest. To the west you can see a cave entrance and the beach is to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632880" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632880">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632910" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632910">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+North Woods
+You can see the mountain in the south. There&apos;s a marsh to the southeast, and the edge of the forest is to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6329a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6329a0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northwest Woods
+You are standing on the edge of the forest. The forest is thicker to the south and to the east. The beach is to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632a30" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632a30">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+North Woods
+You can see the mountain in the south. There&apos;s a marsh to the southeast, and the edge of the forest is to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632ac0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northwest Woods
+You are standing on the edge of the forest. The forest is thicker to the south and to the east. The beach is to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632b50" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632b50">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+West Woods
+The trees here are few and far between. The leaves fall every now and then, like golden droplets. You can see a small stream run down the mountain in the east, its pure water glistening in the sun. To the west there is beach; the forest continues to the north and to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631d40" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631d40">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631dd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631e60" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631e60">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northwest Woods
+You are standing on the edge of the forest. The forest is thicker to the south and to the east. The beach is to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb631ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb631ef0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+West Woods
+The trees here are few and far between. The leaves fall every now and then, like golden droplets. You can see a small stream run down the mountain in the east, its pure water glistening in the sun. To the west there is beach; the forest continues to the north and to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632c20" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632c20">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+West Beach
+There isn&apos;t much beach here, mostly ocean. To the east is the forest, the beach continues in a northanly dirrection and to the south, where there are some large boulders.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632cb0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Upper Southwest Beach
+This part of the island is sheltered from wind by the boulders around you. To the northwest, there&apos;s a cove, &quot;ideal to launch a raft from!&quot;, you think. To the east is the forest. To the south is a rocky beach and to the north there is sandy beach.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="63">YES</temporary>
+  </item>
+  <item nodeId="node-0xb632d40">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Wreckage (West)
+You are standing on the west side of the airplane, it saddens you to see the wreckage, it feels as though you lost a good friend. There is more of the airplane to the east; but not much on the beach to the northwest and southwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6331c0" />
+      <child nodeId="node-0xb633010" />
+      <child nodeId="node-0xb632dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632dd0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Wreckage (East)
+You are standing on the east side of your airplane. It doesn&apos;t look any better from this angle; might as well go back to the west side.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632e60" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632e60">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wreckage (West)
+You are standing on the west side of the airplane, it saddens you to see the wreckage, it feels as though you lost a good friend. There is more of the airplane to the east; but not much on the beach to the northwest and southwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632ef0">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0xb632f80" />
+    </children>
+  </item>
+  <item nodeId="node-0xb632f80">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="72">YES</temporary>
+  </item>
+  <item nodeId="node-0xb633010">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="14">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6330a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6330a0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (Inshore)
+Hello
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="14">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633130" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633130">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+East Beach Inshore
+You are standing in a Beach on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="13">YES</temporary>
+  </item>
+  <item nodeId="node-0xb6331c0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Clearing Southwest of Crash Site
+You are standing in a clearing on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633250" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633250">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+West Crash Site
+You are standing to the west of of the smouldering wreck. To the east there&apos;s more wreckage. There are clearings to the southwest and the northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6332e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6332e0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633370" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633370">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Landing Zone
+You are on the beach. To the southeast lies the wreckage of what was once your magnificent airplane. To the southwest there&apos;s a clearing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633400" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633400">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633490" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633490">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633520" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633520">
+    <command xml:space="preserve">quit</command>
+    <result xml:space="preserve">Are you sure you want to quit? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6335b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6335b0">
+    <command xml:space="preserve">y</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+  </item>
+  <item nodeId="node-0xb633640">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (Inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Clearing West of Crash Site
+You are standing on the beach, there&apos;s a gentle, cool breeze blowing and the waves of the ocean are calming, yet also, eerily disconcerting, reminding you that you are alone. To the east is a large rock around which are two routes to the airplane wreckage -- northeast and southeast. The beach extends to the northwest. To the southwest there&apos;s a small pond.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="86">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6359b0" />
+      <child nodeId="node-0xb634f90" />
+      <child nodeId="node-0xb633fd0" />
+      <child nodeId="node-0xb633eb0" />
+      <child nodeId="node-0xb6336d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6336d0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6339a0" />
+      <child nodeId="node-0xb633760" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633760">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+West Crash Site
+You are standing on the west side of the airplane, it saddens you to see the wreckage, it feels as though you lost a good friend. There is more of the airplane to the east; but not much on the beach to the northwest and southwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633880" />
+      <child nodeId="node-0xb6337f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6337f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+East Crash Site
+You are standing on the east side of your airplane. It doesn&apos;t look any better from this angle; might as well go back to the west side.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+  </item>
+  <item nodeId="node-0xb633880">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633910" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633910">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+North Beach_Inshore
+Hello
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+  </item>
+  <item nodeId="node-0xb6339a0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+To the south is a small forest. The beach continues to the west, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633a30" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633a30">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633ac0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+North Beach
+You&apos;re on the beach, near to the crash site. To the north there&apos;s a small peninsula. There&apos;s beach to the southwest and southeast; and to the south is the forest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633b50" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633b50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+To the south is a small forest. The beach continues to the west, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633be0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633be0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633c70" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633c70">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Small Pond
+You are at a pond, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633d00" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633d00">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+To the south is a small forest. The beach continues to the west, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633d90" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633d90">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+East Beach (inshore)
+You are standing in a Beach on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633e20" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633e20">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+To the south is a small forest. The beach continues to the west, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="39">YES</temporary>
+  </item>
+  <item nodeId="node-0xb633eb0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+North Beach
+You&apos;re on the beach, near to the crash site. To the north there&apos;s a small peninsula. There&apos;s beach to the southwest and southeast; and to the south is the forest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="47">YES</temporary>
+    <children>
+      <child nodeId="node-0xb633f40" />
+    </children>
+  </item>
+  <item nodeId="node-0xb633f40">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the southwest. The beach continues to the west, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="46">YES</temporary>
+  </item>
+  <item nodeId="node-0xb633fd0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+East Beach (Inshore)
+You are standing in a Beach on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Clearing Southwest of Crash Site
+You are standing in a clearing on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="86">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634b10" />
+      <child nodeId="node-0xb634060" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634060">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+West Crash Site
+You are standing to the west of of the smouldering wreck. To the east there&apos;s more wreckage. There are clearings to the southwest and the northwest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+West Crash Site
+You are standing to the west of of the smouldering wreck. To the east there&apos;s more wreckage. There are clearings to the southwest and the northwest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6340f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6340f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+East Crash Site
+You are standing to the east of the dismal wreck. Other than the west side of the wreck, from which you just came, there isn&apos;t anywhere to go but into the vast ocean.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+East Crash Site
+You are standing to the east of the dismal wreck. Other than the west side of the wreck, from which you just came, there isn&apos;t anywhere to go but into the vast ocean.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634180" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634180">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+West Crash Site
+You are standing to the west of of the smouldering wreck. To the east there&apos;s more wreckage. There are clearings to the southwest and the northwest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+West Crash Site
+You are standing to the west of of the smouldering wreck. To the east there&apos;s more wreckage. There are clearings to the southwest and the northwest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634210" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634210">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Clearing Southwest of Crash Site
+You are standing in a clearing on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Clearing Southwest of Crash Site
+You are standing in a clearing on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6342a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6342a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+East Beach
+You are standing on the beach in a small bay, the vast ocean extends beyond the horizon to the east. North of you is a clearing between the forest and the airplane wreck. To the west, the forest starts. The beach continues to the south.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+East Beach
+You are standing on the beach in a small bay, the vast ocean extends beyond the horizon to the east. North of you is a clearing between the forest and the airplane wreck. To the west, the forest starts. The beach continues to the south.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634330" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634330">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Southeast Peninsula
+You are on a small peninsula, there&apos;s a lot of sand here, other than that, there&apos;s more beach to the northwest, and a small cove to the west.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Southeast Peninsula
+You are on a small peninsula, there&apos;s a lot of sand here, other than that, there&apos;s more beach to the northwest, and a small cove to the west.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6343c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6343c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+South Cove
+You are standing in a small cove with a few small rocks around you, and a few sharp-looking boulders in the ocean. Two sea birds stare at you with puzzled expressions. The never-ending ocean is to the south. Both to the east and west, there&apos;s beach, and to the northwest, the forest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+South Cove
+You are standing in a small cove with a few small rocks around you, and a few sharp-looking boulders in the ocean. Two sea birds stare at you with puzzled expressions. The never-ending ocean is to the south. Both to the east and west, there&apos;s beach, and to the northwest, the forest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634450" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634450">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+South Beach
+There are a few more rocks here, and a seabird eating an oyster. The beach continues to the west, and the forest is to the north.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+South Beach
+There are a few more rocks here, and a seabird eating an oyster. The beach continues to the west, and the forest is to the north.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6344e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6344e0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Southwest Beach
+There are large boulders here. To the north is an open space ideal for building something. To the east there&apos;s more beach.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Southwest Beach
+There are large boulders here. To the north is an open space ideal for building something. To the east there&apos;s more beach.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634570" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634570">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Upper Southwest Beach
+This part of the island is sheltered from wind by the boulders around you. To the northwest, there&apos;s a cove, &quot;ideal to launch a raft from!&quot;, you think. To the east is the forest. To the south is a rocky beach and to the north there is sandy beach.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Upper Southwest Beach
+This part of the island is sheltered from wind by the boulders around you. To the northwest, there&apos;s a cove, &quot;ideal to launch a raft from!&quot;, you think. To the east is the forest. To the south is a rocky beach and to the north there is sandy beach.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634600" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634600">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Southwest Cove
+There aren&apos;t any rocks here, not on land nor in the sea itself. To the southwest there&apos;s a windstill area of the beach from which you just came.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Southwest Cove
+There aren&apos;t any rocks here, not on land nor in the sea itself. To the southwest there&apos;s a windstill area of the beach from which you just came.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634690" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634690">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Upper Southwest Beach
+This part of the island is sheltered from wind by the boulders around you. To the northwest, there&apos;s a cove, &quot;ideal to launch a raft from!&quot;, you think. To the east is the forest. To the south is a rocky beach and to the north there is sandy beach.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Upper Southwest Beach
+This part of the island is sheltered from wind by the boulders around you. To the northwest, there&apos;s a cove, &quot;ideal to launch a raft from!&quot;, you think. To the east is the forest. To the south is a rocky beach and to the north there is sandy beach.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634720" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634720">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+West Beach
+There isn&apos;t much beach here, mostly ocean. To the east is the forest, the beach continues in a northanly dirrection and to the south, where there are some large boulders.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+West Beach
+There isn&apos;t much beach here, mostly ocean. To the east is the forest, the beach continues in a northanly dirrection and to the south, where there are some large boulders.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6347b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6347b0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northwest Beach
+The beach protudes a little into the sea here. To the east is the forest, and the beach continues to the northeast and to the south.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+Northwest Beach
+The beach protudes a little into the sea here. To the east is the forest, and the beach continues to the northeast and to the south.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634840" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634840">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+North Beach
+You&apos;re on the beach, near to the crash site. To the north there&apos;s a small peninsula. There&apos;s beach to the southwest and southeast; and to the south is the forest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+North Beach
+You&apos;re on the beach, near to the crash site. To the north there&apos;s a small peninsula. There&apos;s beach to the southwest and southeast; and to the south is the forest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6348d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6348d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+North Peninsula
+You&apos;re standing on a small peninsula with the sea all around you, except to the south where the peninsula joins the rest of the island.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+North Peninsula
+You&apos;re standing on a small peninsula with the sea all around you, except to the south where the peninsula joins the rest of the island.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634960" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634960">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+North Beach
+You&apos;re on the beach, near to the crash site. To the north there&apos;s a small peninsula. There&apos;s beach to the southwest and southeast; and to the south is the forest.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+North Beach
+You&apos;re on the beach, near to the crash site. To the north there&apos;s a small peninsula. There&apos;s beach to the southwest and southeast; and to the south is the forest.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb6349f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6349f0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Clearing West of Crash Site
+You are standing on the beach, there&apos;s a gentle, cool breeze blowing and the waves of the ocean are calming, yet also, eerily disconcerting, reminding you that you are alone. To the east is a large rock around which are two routes to the airplane wreckage -- northeast and southeast. The beach extends to the northwest. To the southwest there&apos;s a small pond.
+
+&gt;</result>
+    <annotation xml:space="preserve">Island Walkaround</annotation>
+    <commentary xml:space="preserve">
+Clearing West of Crash Site
+You are standing on the beach, there&apos;s a gentle, cool breeze blowing and the waves of the ocean are calming, yet also, eerily disconcerting, reminding you that you are alone. To the east is a large rock around which are two routes to the airplane wreckage -- northeast and southeast. The beach extends to the northwest. To the southwest there&apos;s a small pond.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">NO</temporary>
+    <children>
+      <child nodeId="node-0xb634a80" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634a80">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Small Pond
+You are at a pond, it has some reeds and a few bugs. To the southwest, there&apos;s a clearing near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+  </item>
+  <item nodeId="node-0xb634b10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+East Beach
+You are standing on the beach in a small bay, the vast ocean extends beyond the horizon to the east. North of you is a Beach between the forest and the airplane wreck. To the west, the forest starts. The beach continues to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="86">YES</temporary>
+    <children>
+      <child nodeId="node-0xb634e70" />
+      <child nodeId="node-0xb634ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634ba0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+East Woods
+You are standing in the autum leaves that the trees around you shed. Off to the west you can see, through the trees, a steep mountain. The forrest continues to the north and south. The beach is east of you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="86">YES</temporary>
+    <children>
+      <child nodeId="node-0xb634c30" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634c30">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="86">YES</temporary>
+    <children>
+      <child nodeId="node-0xb634cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634cc0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+East Beach
+You are standing on the beach in a small bay, the vast ocean extends beyond the horizon to the east. North of you is a Beach between the forest and the airplane wreck. To the west, the forest starts. The beach continues to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="86">YES</temporary>
+    <children>
+      <child nodeId="node-0xb634d50" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634d50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+East Beach (Inshore)
+You are standing in a Beach on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="86">YES</temporary>
+    <children>
+      <child nodeId="node-0xb634de0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634de0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northeast Woods
+You can hear birds in the trees around you, while the sun is squinting at you through the copper leaves. The forest continues to the south and the northwest. To the west you can see a cave entrance and the beach is to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="85">YES</temporary>
+  </item>
+  <item nodeId="node-0xb634e70">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+East Beach (Inshore)
+You are standing in a Beach on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="78">YES</temporary>
+    <children>
+      <child nodeId="node-0xb634f00" />
+    </children>
+  </item>
+  <item nodeId="node-0xb634f00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Northeast Woods
+You can hear birds in the trees around you, while the sun is squinting at you through the copper leaves. The forest continues to the south and the northwest. To the west you can see a cave entrance and to the east there&apos;s a Beach on the beach near the crash site.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="77">YES</temporary>
+  </item>
+  <item nodeId="node-0xb634f90">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635020" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635020">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6350b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6350b0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+East Beach (inshore)
+You are standing in a Beach on the beach, between the airplane wreckage to the northeast, and the forest to the west. The beach continues to the south and northwest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635140" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635140">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6351d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6351d0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635260" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635260">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+North Woods
+You can see the mountain in the south. There&apos;s a marsh to the southeast, and the edge of the forest is to the west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6352f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6352f0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635380" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635380">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635410" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635410">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Northeast Beach
+Thankfully you managed to land here, on the beach, when you ran out of fuel. If you look to the southeast, it is obvious that your trusty airplane wasn&apos;t as lucky. To the southwest the beach barely has any wreckage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6354a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6354a0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the southwest. The remains of your aircraft are to the west. The beach continues to the northwest, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635530" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635530">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6355c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6355c0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635650" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635650">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb6356e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb6356e0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635770" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635770">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635800" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635800">
+    <command xml:space="preserve">dgff</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635890" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635890">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635920" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635920">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+  </item>
+  <item nodeId="node-0xb6359b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Marsh
+You are at a marsh, it has some reeds and a few bugs. To the northeast, there&apos;s a Beach near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635b60" />
+      <child nodeId="node-0xb635a40" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635a40">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635ad0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635ad0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Northeast Beach (inshore)
+There&apos;s a marsh to the south. The beach continues to the west, northeast and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+  </item>
+  <item nodeId="node-0xb635b60">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Small Pond
+You are at a pond, it has some reeds and a few bugs. To the southwest, there&apos;s a clearing near the crash site. The forest continues to the northwest and southeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635bf0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Northeast Woods
+You can hear birds in the trees around you, while the sun is squinting at you through the copper leaves. The forest continues to the south and the northwest. To the west you can see a cave entrance and to the east there&apos;s a clearing on the beach near the crash site.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635c80" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635c80">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Cave Entrance
+You are at the enterance of the cave, suprisingly, it&apos;s not too dark in there. The cave continues to the west, and the forest starts to the east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635d10" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635d10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635da0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635da0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+South Chamber
+The floor slopes down into a large pool of rainwater which fills most of the chamber. The corridor is back to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635e30" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635e30">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635ec0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+North Chamber
+There&apos;s a single crack in the ceiling, the chamber is dry, there&apos;s even place for a fire. This looks like a good place to sleep.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635f50" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635f50">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Cave Corridor
+The mountain has erroded to the point where the cave has a crack in the ceiling here and there, which alows light to flow through and into the cave illuminating it just right. There are passages to the south, southwest and north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb635fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb635fe0">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Southwest Chamber
+This room is dark, there isn&apos;t really much you can see. Looks like a good place to store things. The corridor is back to the northeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb636070" />
+    </children>
+  </item>
+  <item nodeId="node-0xb636070">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0xb636100" />
+    </children>
+  </item>
+  <item nodeId="node-0xb636100">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Southwest Chamber
+This room is dark, there isn&apos;t really much you can see. Looks like a good place to store things. The corridor is back to the northeast.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+  </item>
+</Skein>

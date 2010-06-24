@@ -22,6 +22,13 @@
 		<false/>
 	</dict>
 	<key>IFOutputSettings</key>
+	<dict>
+		<key>IFSettingCreateBlorb</key>
+		<true/>
+		<key>IFSettingZCodeVersion</key>
+		<integer>5</integer>
+	</dict>
+	<key>IFRandomSettings</key>
 	<dict/>
 </dict>
 </plist>
